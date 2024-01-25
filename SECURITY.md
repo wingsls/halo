@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions1
+## Supported Versions
 
 Halo currently supports the versions listed below, where as:
 
